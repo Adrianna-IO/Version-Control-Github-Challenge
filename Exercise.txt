@@ -1,0 +1,4 @@
+A. Explain what the terminal is in your own words. The terminal is another way to control your folders and files without the GUI. 
+B. What is the major difference between Git and Github? Git is a distributed version control system which means multiple developers can work on the same project and don’t have to be on the same network. Github is essentially a git hosting service, it makes a GUI for Git
+C. Why do we use Github? We use Github to work with other developers not on the same network, also it allows your work to be public in one of the largest coding communities. 
+
